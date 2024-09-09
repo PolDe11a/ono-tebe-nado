@@ -14,14 +14,14 @@
 
  .header__links-list { 
     display: flex;
-    gap: 32px; 
+    gap: 32px;
 }
     
 .header__links-list-item {
     text-transform: lowercase;
     font-size: 18px;
     letter-spacing: 0.18px;
-    list-style: circle; 
+    list-style: circle;
 }
 
 .header__links-list-item_no-bullit {
@@ -41,7 +41,8 @@
 
 .address {
     font-size: 18px;
-    line-height: 24.3px;    
+    line-height: 24.3px;
+    font-style: normal;
 }
 
 .header__address {
@@ -105,8 +106,8 @@ z-index:0;
     letter-spacing: 60px;
 }
 
-.no-letter-spacing{
-    letter-spacing: 30px; 
+.no-letter-spacing {
+    letter-spacing: 30px;
 }
 
 .cover__description {
@@ -200,7 +201,7 @@ z-index:0;
     z-index:1;
 }
 
-.card_type_film, .card_type_book, .card_type_picture  {
+.card_type_film, .card_type_book, .card_type_picture {
     position: absolute;
     z-index:-1;
     width: 100%;
@@ -210,7 +211,7 @@ z-index:0;
 
 .lots__look-more-link {
     font-size: 20px;
-    margin: 30px 0 0 40px; 
+    margin: 30px 0 0 40px;
 }   
 
 
@@ -265,7 +266,7 @@ z-index:0;
     
 
 
-.footer  {
+.footer {
         display: flex;
         justify-content: space-between;
         gap: 185px;
