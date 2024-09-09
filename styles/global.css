@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-html{
+html {
   scroll-behavior: smooth;
 }
 
@@ -25,8 +25,7 @@ p,
 ul,
 ol,
 li,
-blockquote
- {
+blockquote {
   margin: 0;
   padding: 0;
 }
