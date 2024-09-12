@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -2670,3 +2671,6 @@ data-styled.g63[id="SegmentedControl__SegmentedControlList-sc-1rzig82-0"]{conten
   </body>
 </html>
 
+=======
+https://github.com/PolDe11a/ono-tebe-nado.git
+>>>>>>> 9bd35c5247ad5150f2d5e6d4d74c92a203d620e7
